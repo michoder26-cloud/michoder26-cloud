@@ -18,3 +18,12 @@ I am from Thailand and currently reside and study in Austria. Although I do not 
 ### Socials
 
 <p align="left"> <a href="https://www.linkedin.com/in/thaythep-wattanasataporn-35b362446/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+### 📊 GitHub Stats
+<p align="left">
+
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=michoder26-cloud&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" height="165" />
+</p>
+
